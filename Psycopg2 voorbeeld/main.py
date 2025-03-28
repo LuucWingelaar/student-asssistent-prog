@@ -2,7 +2,6 @@ import psycopg2 as pg
 import dotenv
 import os
 
-from requests import delete
 
 # Laad de variabelen uit het .env bestand
 dotenv.load_dotenv()
